@@ -4,10 +4,14 @@
 $CRASH is an innovative meme coin that has taken the cryptocurrency world by storm. With its unique approach and vibrant community, $CRASH aims to revolutionize the digital currency space while providing an exhilarating and entertaining investment experience.
 
 <h3>Features</h3>
-⚡ Volatility Embraced: Unlike traditional cryptocurrencies that aim for stability, $CRASH embraces volatility, offering investors an adrenaline-pumping rollercoaster ride of highs and lows.  <br>
-⚡ Cultural Phenomenon: $CRASH isn't just a currency; it's a movement, a cultural phenomenon that has captured the imagination of crypto enthusiasts worldwide.  <br>
-⚡ Community-driven: The $CRASH community is passionate, adventurous, and diverse, united by a shared love for excitement and uncertainty.  <br>
-⚡ Seismic Shift: $CRASH represents a seismic shift in the world of cryptocurrency, challenging conventional norms and rewriting the rules of the game. <br>
+Volatility Embraced: <br>
+⚡Unlike traditional cryptocurrencies that aim for stability, $CRASH embraces volatility, offering investors an adrenaline-pumping rollercoaster ride of highs and lows.  <br>
+Cultural Phenomenon: <br>
+⚡ $CRASH isn't just a currency; it's a movement, a cultural phenomenon that has captured the imagination of crypto enthusiasts worldwide.  <br>
+Community-driven: <br>
+⚡ The $CRASH community is passionate, adventurous, and diverse, united by a shared love for excitement and uncertainty.  <br>
+Seismic Shift: <br>
+⚡ $CRASH represents a seismic shift in the world of cryptocurrency, challenging conventional norms and rewriting the rules of the game. <br>
 
 <h3>How to Get Started</h3>
 To get started with $CRASH, follow these simple steps:  <br>
